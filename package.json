@@ -1,11 +1,23 @@
 {
-  "name": "rollbar-jquery",
-  "version": "0.1.0",
-  "description": "Rollbarjs jQuery",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Sean Brown",
-  "license": "ISC"
+	"name": "rollbar-jquery",
+	"version": "0.1.0",
+	"description": "Rollbarjs jQuery",
+	"main": "index.js",
+	"scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/inphomercial/rollbarjs-jquery.git"
+	},
+	"keywords": [
+		"node",
+		"webpack",
+		"rollbar",
+		"rollbarjs",
+		"jquery",
+		"$"
+	],
+	"author": "Sean Brown",
+	"license": "ISC"
 }

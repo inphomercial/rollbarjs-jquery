@@ -5,6 +5,8 @@ If you use jQuery 1.7+ and have it installed via webpack, this will instruct jQu
 
 Be sure to include this after the jQuery is loaded
 
+Reference https://rollbar.com/docs/notifier/rollbar.js/#jquery
+
 ## Installation
 
   npm install rollbarjs-jquery --save
@@ -12,11 +14,6 @@ Be sure to include this after the jQuery is loaded
 ## Usage
 
   var rollbarjs-jquery = require('rollbarjs-jquery');
-
-## Contributing
-
-In lieu of a formal styleguide, take care to maintain the existing coding style.
-Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Release History
 
